@@ -1,0 +1,573 @@
+Loaded 246 countries
+Afghanistan borders China
+Afghanistan borders Iran (Islamic Republic of)
+Afghanistan borders Pakistan
+Afghanistan borders Tajikistan
+Afghanistan borders Turkmenistan
+Afghanistan borders Uzbekistan
+Albania borders Greece
+Albania borders Montenegro
+Albania borders Serbia
+Albania borders The former Yugoslav Republic of Macedonia
+Algeria borders Libyan Arab Jamahiriya
+Algeria borders Mali
+Algeria borders Mauritania
+Algeria borders Morocco
+Algeria borders Niger
+Algeria borders Western Sahara
+Angola borders Congo
+Angola borders Democratic Republic of the Congo
+Angola borders Namibia
+Angola borders Zambia
+Argentina borders Bolivia
+Argentina borders Brazil
+Argentina borders Chile
+Argentina borders Paraguay
+Argentina borders Uruguay
+Armenia borders Azerbaijan
+Armenia borders Georgia
+Armenia borders Iran (Islamic Republic of)
+Armenia borders Turkey
+Austria borders Czech Republic
+Austria borders Hungary
+Austria borders Italy
+Austria borders Liechtenstein
+Austria borders Slovakia
+Austria borders Slovenia
+Austria borders Switzerland
+Azerbaijan borders Armenia
+Azerbaijan borders Georgia
+Azerbaijan borders Iran (Islamic Republic of)
+Azerbaijan borders Russia
+Azerbaijan borders Turkey
+Bangladesh borders Burma
+Bangladesh borders India
+Belarus borders Latvia
+Belarus borders Lithuania
+Belarus borders Poland
+Belarus borders Russia
+Belarus borders Ukraine
+Belgium borders Germany
+Belgium borders Luxembourg
+Belize borders Guatemala
+Belize borders Mexico
+Benin borders Burkina Faso
+Benin borders Niger
+Benin borders Togo
+Bhutan borders China
+Bhutan borders India
+Bolivia borders Argentina
+Bolivia borders Brazil
+Bolivia borders Chile
+Bolivia borders Paraguay
+Bolivia borders Peru
+Bosnia and Herzegovina borders Croatia
+Bosnia and Herzegovina borders Montenegro
+Bosnia and Herzegovina borders Serbia
+Botswana borders Namibia
+Botswana borders South Africa
+Botswana borders Zambia
+Botswana borders Zimbabwe
+Brazil borders Argentina
+Brazil borders Bolivia
+Brazil borders Colombia
+Brazil borders Guyana
+Brazil borders Paraguay
+Brazil borders Peru
+Brazil borders Uruguay
+Brazil borders Venezuela
+Brunei Darussalam borders Malaysia
+Bulgaria borders Greece
+Bulgaria borders Romania
+Bulgaria borders Serbia
+Bulgaria borders The former Yugoslav Republic of Macedonia
+Bulgaria borders Turkey
+Burkina Faso borders Benin
+Burkina Faso borders Ghana
+Burkina Faso borders Mali
+Burkina Faso borders Niger
+Burkina Faso borders Togo
+Burma borders Bangladesh
+Burma borders China
+Burma borders India
+Burma borders Lao People's Democratic Republic
+Burma borders Thailand
+Burundi borders Democratic Republic of the Congo
+Burundi borders Rwanda
+Burundi borders United Republic of Tanzania
+Cambodia borders Lao People's Democratic Republic
+Cambodia borders Thailand
+Cambodia borders Viet Nam
+Cameroon borders Congo
+Cameroon borders Equatorial Guinea
+Cameroon borders Gabon
+Cameroon borders Nigeria
+Canada borders United States
+Central African Republic borders Chad
+Central African Republic borders Congo
+Chad borders Central African Republic
+Chad borders Libyan Arab Jamahiriya
+Chad borders Niger
+Chad borders Nigeria
+Chad borders Sudan
+Chile borders Argentina
+Chile borders Bolivia
+Chile borders Peru
+China borders Afghanistan
+China borders Bhutan
+China borders Burma
+China borders Hong Kong
+China borders India
+China borders Kazakhstan
+China borders Korea, Democratic People's Republic of
+China borders Kyrgyzstan
+China borders Lao People's Democratic Republic
+China borders Macau
+China borders Mongolia
+China borders Nepal
+China borders Pakistan
+China borders Russia
+China borders Tajikistan
+China borders Viet Nam
+Colombia borders Brazil
+Colombia borders Ecuador
+Colombia borders Panama
+Colombia borders Peru
+Colombia borders Venezuela
+Congo borders Angola
+Congo borders Cameroon
+Congo borders Central African Republic
+Costa Rica borders Nicaragua
+Costa Rica borders Panama
+Cote d'Ivoire borders Mali
+Croatia borders Bosnia and Herzegovina
+Croatia borders Hungary
+Croatia borders Montenegro
+Croatia borders Serbia
+Croatia borders Slovenia
+Cuba borders United States
+Czech Republic borders Austria
+Czech Republic borders Germany
+Czech Republic borders Poland
+Czech Republic borders Slovakia
+Democratic Republic of the Congo borders Angola
+Democratic Republic of the Congo borders Burundi
+Democratic Republic of the Congo borders Rwanda
+Democratic Republic of the Congo borders Sudan
+Democratic Republic of the Congo borders United Republic of Tanzania
+Democratic Republic of the Congo borders Zambia
+Denmark borders Germany
+Djibouti borders Eritrea
+Djibouti borders Ethiopia
+Djibouti borders Somalia
+Dominican Republic borders Haiti
+Ecuador borders Colombia
+Ecuador borders Peru
+Egypt borders Israel
+Egypt borders Libyan Arab Jamahiriya
+Egypt borders Palestine
+Egypt borders Sudan
+El Salvador borders Guatemala
+El Salvador borders Honduras
+Equatorial Guinea borders Cameroon
+Equatorial Guinea borders Gabon
+Eritrea borders Djibouti
+Eritrea borders Ethiopia
+Eritrea borders Sudan
+Estonia borders Latvia
+Estonia borders Russia
+Ethiopia borders Djibouti
+Ethiopia borders Eritrea
+Ethiopia borders Somalia
+Finland borders Norway
+Finland borders Russia
+Finland borders Sweden
+France borders Germany
+France borders Italy
+France borders Spain
+French Guiana borders Suriname
+Gabon borders Cameroon
+Gabon borders Equatorial Guinea
+Gambia borders Senegal
+Georgia borders Armenia
+Georgia borders Azerbaijan
+Georgia borders Russia
+Georgia borders Turkey
+Germany borders Belgium
+Germany borders Czech Republic
+Germany borders Denmark
+Germany borders France
+Germany borders Netherlands
+Germany borders Poland
+Ghana borders Burkina Faso
+Ghana borders Togo
+Gibraltar borders Spain
+Greece borders Albania
+Greece borders Bulgaria
+Greece borders The former Yugoslav Republic of Macedonia
+Greece borders Turkey
+Guatemala borders Belize
+Guatemala borders El Salvador
+Guatemala borders Honduras
+Guatemala borders Mexico
+Guinea borders Guinea-Bissau
+Guinea borders Liberia
+Guinea borders Mali
+Guinea borders Senegal
+Guinea-Bissau borders Guinea
+Guinea-Bissau borders Senegal
+Guyana borders Brazil
+Guyana borders Venezuela
+Haiti borders Dominican Republic
+Holy See (Vatican City) borders Italy
+Honduras borders El Salvador
+Honduras borders Guatemala
+Honduras borders Nicaragua
+Hong Kong borders China
+Hungary borders Austria
+Hungary borders Croatia
+Hungary borders Romania
+Hungary borders Serbia
+Hungary borders Slovakia
+Hungary borders Slovenia
+Hungary borders Ukraine
+India borders Bangladesh
+India borders Bhutan
+India borders Burma
+India borders China
+India borders Nepal
+India borders Pakistan
+Indonesia borders Malaysia
+Indonesia borders Papua New Guinea
+Indonesia borders Timor-Leste
+Iran (Islamic Republic of) borders Afghanistan
+Iran (Islamic Republic of) borders Armenia
+Iran (Islamic Republic of) borders Azerbaijan
+Iran (Islamic Republic of) borders Iraq
+Iran (Islamic Republic of) borders Pakistan
+Iran (Islamic Republic of) borders Turkey
+Iran (Islamic Republic of) borders Turkmenistan
+Iraq borders Iran (Islamic Republic of)
+Iraq borders Jordan
+Iraq borders Kuwait
+Iraq borders Saudi Arabia
+Iraq borders Syrian Arab Republic
+Iraq borders Turkey
+Ireland borders United Kingdom
+Israel borders Egypt
+Israel borders Jordan
+Israel borders Lebanon
+Israel borders Palestine
+Israel borders Syrian Arab Republic
+Italy borders Austria
+Italy borders France
+Italy borders Holy See (Vatican City)
+Italy borders San Marino
+Italy borders Slovenia
+Jordan borders Iraq
+Jordan borders Israel
+Jordan borders Palestine
+Jordan borders Saudi Arabia
+Jordan borders Syrian Arab Republic
+Kazakhstan borders China
+Kazakhstan borders Kyrgyzstan
+Kazakhstan borders Russia
+Kazakhstan borders Turkmenistan
+Kazakhstan borders Uzbekistan
+Kenya borders Somalia
+Kenya borders Sudan
+Kenya borders United Republic of Tanzania
+Korea, Democratic People's Republic of borders China
+Korea, Democratic People's Republic of borders Korea, Republic of
+Korea, Democratic People's Republic of borders Russia
+Korea, Republic of borders Korea, Democratic People's Republic of
+Kuwait borders Iraq
+Kuwait borders Saudi Arabia
+Kyrgyzstan borders China
+Kyrgyzstan borders Kazakhstan
+Kyrgyzstan borders Tajikistan
+Kyrgyzstan borders Uzbekistan
+Lao People's Democratic Republic borders Burma
+Lao People's Democratic Republic borders Cambodia
+Lao People's Democratic Republic borders China
+Lao People's Democratic Republic borders Thailand
+Lao People's Democratic Republic borders Viet Nam
+Latvia borders Belarus
+Latvia borders Estonia
+Latvia borders Lithuania
+Latvia borders Russia
+Lebanon borders Israel
+Lebanon borders Syrian Arab Republic
+Lesotho borders South Africa
+Liberia borders Guinea
+Libyan Arab Jamahiriya borders Algeria
+Libyan Arab Jamahiriya borders Chad
+Libyan Arab Jamahiriya borders Egypt
+Libyan Arab Jamahiriya borders Niger
+Libyan Arab Jamahiriya borders Sudan
+Liechtenstein borders Austria
+Liechtenstein borders Switzerland
+Lithuania borders Belarus
+Lithuania borders Latvia
+Lithuania borders Poland
+Lithuania borders Russia
+Luxembourg borders Belgium
+Macau borders China
+Malawi borders Mozambique
+Malawi borders United Republic of Tanzania
+Malawi borders Zambia
+Malaysia borders Brunei Darussalam
+Malaysia borders Indonesia
+Malaysia borders Thailand
+Mali borders Algeria
+Mali borders Burkina Faso
+Mali borders Cote d'Ivoire
+Mali borders Guinea
+Mali borders Mauritania
+Mali borders Niger
+Mali borders Senegal
+Mauritania borders Algeria
+Mauritania borders Mali
+Mauritania borders Senegal
+Mauritania borders Western Sahara
+Mexico borders Belize
+Mexico borders Guatemala
+Mexico borders United States
+Mongolia borders China
+Mongolia borders Russia
+Montenegro borders Albania
+Montenegro borders Bosnia and Herzegovina
+Montenegro borders Croatia
+Montenegro borders Serbia
+Morocco borders Algeria
+Morocco borders Spain
+Morocco borders Western Sahara
+Mozambique borders Malawi
+Mozambique borders South Africa
+Mozambique borders Swaziland
+Mozambique borders United Republic of Tanzania
+Mozambique borders Zambia
+Mozambique borders Zimbabwe
+Namibia borders Angola
+Namibia borders Botswana
+Namibia borders South Africa
+Namibia borders Zambia
+Namibia borders Zimbabwe
+Nepal borders China
+Nepal borders India
+Netherlands borders Germany
+Nicaragua borders Costa Rica
+Nicaragua borders Honduras
+Niger borders Algeria
+Niger borders Benin
+Niger borders Burkina Faso
+Niger borders Chad
+Niger borders Libyan Arab Jamahiriya
+Niger borders Mali
+Nigeria borders Cameroon
+Nigeria borders Chad
+Norway borders Finland
+Norway borders Russia
+Norway borders Sweden
+Oman borders Saudi Arabia
+Oman borders United Arab Emirates
+Oman borders Yemen
+Pakistan borders Afghanistan
+Pakistan borders China
+Pakistan borders India
+Pakistan borders Iran (Islamic Republic of)
+Palestine borders Egypt
+Palestine borders Israel
+Palestine borders Jordan
+Panama borders Colombia
+Panama borders Costa Rica
+Papua New Guinea borders Indonesia
+Paraguay borders Argentina
+Paraguay borders Bolivia
+Paraguay borders Brazil
+Peru borders Bolivia
+Peru borders Brazil
+Peru borders Chile
+Peru borders Colombia
+Peru borders Ecuador
+Poland borders Belarus
+Poland borders Czech Republic
+Poland borders Germany
+Poland borders Lithuania
+Poland borders Russia
+Poland borders Slovakia
+Poland borders Ukraine
+Portugal borders Spain
+Qatar borders Saudi Arabia
+Republic of Moldova borders Romania
+Republic of Moldova borders Ukraine
+Romania borders Bulgaria
+Romania borders Hungary
+Romania borders Republic of Moldova
+Romania borders Serbia
+Romania borders Ukraine
+Russia borders Azerbaijan
+Russia borders Belarus
+Russia borders China
+Russia borders Estonia
+Russia borders Finland
+Russia borders Georgia
+Russia borders Kazakhstan
+Russia borders Korea, Democratic People's Republic of
+Russia borders Latvia
+Russia borders Lithuania
+Russia borders Mongolia
+Russia borders Norway
+Russia borders Poland
+Russia borders Ukraine
+Rwanda borders Burundi
+Rwanda borders Democratic Republic of the Congo
+Rwanda borders Uganda
+Rwanda borders United Republic of Tanzania
+Saint Barthelemy borders Saint Martin
+Saint Martin borders Saint Barthelemy
+San Marino borders Italy
+Saudi Arabia borders Iraq
+Saudi Arabia borders Jordan
+Saudi Arabia borders Kuwait
+Saudi Arabia borders Oman
+Saudi Arabia borders Qatar
+Saudi Arabia borders United Arab Emirates
+Saudi Arabia borders Yemen
+Senegal borders Gambia
+Senegal borders Guinea
+Senegal borders Guinea-Bissau
+Senegal borders Mali
+Senegal borders Mauritania
+Serbia borders Albania
+Serbia borders Bosnia and Herzegovina
+Serbia borders Bulgaria
+Serbia borders Croatia
+Serbia borders Hungary
+Serbia borders Montenegro
+Serbia borders Romania
+Serbia borders The former Yugoslav Republic of Macedonia
+Slovakia borders Austria
+Slovakia borders Czech Republic
+Slovakia borders Hungary
+Slovakia borders Poland
+Slovakia borders Ukraine
+Slovenia borders Austria
+Slovenia borders Croatia
+Slovenia borders Hungary
+Slovenia borders Italy
+Somalia borders Djibouti
+Somalia borders Ethiopia
+Somalia borders Kenya
+South Africa borders Botswana
+South Africa borders Lesotho
+South Africa borders Mozambique
+South Africa borders Namibia
+South Africa borders Swaziland
+South Africa borders Zimbabwe
+Spain borders France
+Spain borders Gibraltar
+Spain borders Morocco
+Spain borders Portugal
+Sudan borders Chad
+Sudan borders Democratic Republic of the Congo
+Sudan borders Egypt
+Sudan borders Eritrea
+Sudan borders Kenya
+Sudan borders Libyan Arab Jamahiriya
+Sudan borders Uganda
+Suriname borders French Guiana
+Swaziland borders Mozambique
+Swaziland borders South Africa
+Sweden borders Finland
+Sweden borders Norway
+Switzerland borders Austria
+Switzerland borders Liechtenstein
+Syrian Arab Republic borders Iraq
+Syrian Arab Republic borders Israel
+Syrian Arab Republic borders Jordan
+Syrian Arab Republic borders Lebanon
+Syrian Arab Republic borders Turkey
+Tajikistan borders Afghanistan
+Tajikistan borders China
+Tajikistan borders Kyrgyzstan
+Tajikistan borders Uzbekistan
+Thailand borders Burma
+Thailand borders Cambodia
+Thailand borders Lao People's Democratic Republic
+Thailand borders Malaysia
+The former Yugoslav Republic of Macedonia borders Albania
+The former Yugoslav Republic of Macedonia borders Bulgaria
+The former Yugoslav Republic of Macedonia borders Greece
+The former Yugoslav Republic of Macedonia borders Serbia
+Timor-Leste borders Indonesia
+Togo borders Benin
+Togo borders Burkina Faso
+Togo borders Ghana
+Turkey borders Armenia
+Turkey borders Azerbaijan
+Turkey borders Bulgaria
+Turkey borders Georgia
+Turkey borders Greece
+Turkey borders Iran (Islamic Republic of)
+Turkey borders Iraq
+Turkey borders Syrian Arab Republic
+Turkmenistan borders Afghanistan
+Turkmenistan borders Iran (Islamic Republic of)
+Turkmenistan borders Kazakhstan
+Turkmenistan borders Uzbekistan
+Uganda borders Rwanda
+Uganda borders Sudan
+Uganda borders United Republic of Tanzania
+Ukraine borders Belarus
+Ukraine borders Hungary
+Ukraine borders Poland
+Ukraine borders Republic of Moldova
+Ukraine borders Romania
+Ukraine borders Russia
+Ukraine borders Slovakia
+United Arab Emirates borders Oman
+United Arab Emirates borders Saudi Arabia
+United Kingdom borders Ireland
+United Republic of Tanzania borders Burundi
+United Republic of Tanzania borders Democratic Republic of the Congo
+United Republic of Tanzania borders Kenya
+United Republic of Tanzania borders Malawi
+United Republic of Tanzania borders Mozambique
+United Republic of Tanzania borders Rwanda
+United Republic of Tanzania borders Uganda
+United Republic of Tanzania borders Zambia
+United States borders Canada
+United States borders Cuba
+United States borders Mexico
+Uruguay borders Argentina
+Uruguay borders Brazil
+Uzbekistan borders Afghanistan
+Uzbekistan borders Kazakhstan
+Uzbekistan borders Kyrgyzstan
+Uzbekistan borders Tajikistan
+Uzbekistan borders Turkmenistan
+Venezuela borders Brazil
+Venezuela borders Colombia
+Venezuela borders Guyana
+Viet Nam borders Cambodia
+Viet Nam borders China
+Viet Nam borders Lao People's Democratic Republic
+Western Sahara borders Algeria
+Western Sahara borders Mauritania
+Western Sahara borders Morocco
+Yemen borders Oman
+Yemen borders Saudi Arabia
+Zambia borders Angola
+Zambia borders Botswana
+Zambia borders Democratic Republic of the Congo
+Zambia borders Malawi
+Zambia borders Mozambique
+Zambia borders Namibia
+Zambia borders United Republic of Tanzania
+Zambia borders Zimbabwe
+Zimbabwe borders Botswana
+Zimbabwe borders Mozambique
+Zimbabwe borders Namibia
+Zimbabwe borders South Africa
+Zimbabwe borders Zambia
